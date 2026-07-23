@@ -1,0 +1,23 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/georgiy2003/js_hw#readme",
+  "bugs": {
+    "url": "https://github.com/georgiy2003/js_hw/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgiy2003/js_hw.git"
+  },
+  "license": "ISC",
+  "author": "georgiy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
